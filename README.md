@@ -41,4 +41,3 @@ Some libraries used that deserves mentioning.
 - [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX) - Modified to adjust my tools sidebar.
 
-Additionally I have added a custom template in the `extra` folder. The template is designed and created solely by me. The name is **b
